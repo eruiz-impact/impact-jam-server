@@ -1,0 +1,14 @@
+{
+  "collectionName": "apis",
+  "info": {
+    "name": "api",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": false,
+    "increments": true,
+    "timestamps": true,
+    "comment": ""
+  },
+  "attributes": {}
+}
