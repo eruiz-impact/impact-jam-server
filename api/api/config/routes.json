@@ -2,7 +2,7 @@
   "routes": [
     {
       "method": "GET",
-      "path": "/apis",
+      "path": "/api/apis",
       "handler": "api.find",
       "config": {
         "policies": []
